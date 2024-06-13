@@ -9,4 +9,4 @@
  
  # https://stackoverflow.com/questions/15599565/how-do-you-use-msvcrt-getch-to-extract-and-use-input
  
- # código-fonte do Adafruit_Motor.PWM do GitHub: https://github.com/adafruit/Adafruit_CircuitPython_Motor
+ # Adafruit_Motor.PWM on GitHub: https://github.com/adafruit/Adafruit_CircuitPython_Motor
