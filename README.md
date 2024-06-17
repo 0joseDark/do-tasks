@@ -1,6 +1,6 @@
 # do-tasks
  schedule tasks
- 
+ # These scripts record key clicks on the note, then read the note and write it to the raspberry pi pins
  # pip install msvcrt
  # sudo apt install python3-rpi.gpio
  # sudo pip3 install Adafruit_Motor.PWM
